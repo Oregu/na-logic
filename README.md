@@ -1,4 +1,5 @@
-= Non-Axiomatic Logic in core.logic
+Non-Axiomatic Logic in core.logic
+=================================
 
 Translating 'Non-Axiomatic Logic in Prolog' rules to clojure.core.logic.
 
